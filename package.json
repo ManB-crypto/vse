@@ -18,6 +18,7 @@
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
+    "angular-cli-ghpages": "^0.1.0",
     "ng2-search-filter": "^0.5.1",
     "ngx-pagination": "^6.0.2",
     "rxjs": "~7.5.0",
