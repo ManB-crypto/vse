@@ -16,6 +16,8 @@
             "outputPath": "dist/vse",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "browserTarget": "your-application-name:build",
+            "proxyConfig": "src/proxy.conf.json"
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
